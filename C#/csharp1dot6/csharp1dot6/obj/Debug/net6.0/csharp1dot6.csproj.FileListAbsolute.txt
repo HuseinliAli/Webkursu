@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\csharp1dot6.exe
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\csharp1dot6.deps.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\csharp1dot6.runtimeconfig.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\csharp1dot6.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\ref\csharp1dot6.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\bin\Debug\net6.0\csharp1dot6.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\ref\csharp1dot6.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\csharp1dot6\obj\Debug\net6.0\csharp1dot6.genruntimeconfig.cache

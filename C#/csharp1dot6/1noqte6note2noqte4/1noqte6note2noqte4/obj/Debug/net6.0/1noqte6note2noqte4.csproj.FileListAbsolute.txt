@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\1noqte6note2noqte4.exe
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\1noqte6note2noqte4.deps.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\1noqte6note2noqte4.runtimeconfig.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\1noqte6note2noqte4.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\ref\1noqte6note2noqte4.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\bin\Debug\net6.0\1noqte6note2noqte4.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\ref\1noqte6note2noqte4.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6note2noqte4\1noqte6note2noqte4\obj\Debug\net6.0\1noqte6note2noqte4.genruntimeconfig.cache

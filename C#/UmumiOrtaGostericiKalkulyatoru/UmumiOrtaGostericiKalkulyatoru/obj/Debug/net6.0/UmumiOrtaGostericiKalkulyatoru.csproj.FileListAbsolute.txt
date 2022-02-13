@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.exe
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.deps.json
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.runtimeconfig.json
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.dll
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\ref\UmumiOrtaGostericiKalkulyatoru.dll
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\bin\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.pdb
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.dll
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\ref\UmumiOrtaGostericiKalkulyatoru.dll
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.pdb
+C:\Users\Ali\Desktop\C#\UmumiOrtaGostericiKalkulyatoru\UmumiOrtaGostericiKalkulyatoru\obj\Debug\net6.0\UmumiOrtaGostericiKalkulyatoru.genruntimeconfig.cache

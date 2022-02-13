@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\1noqte6qnote1noqte3.exe
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\1noqte6qnote1noqte3.deps.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\1noqte6qnote1noqte3.runtimeconfig.json
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\1noqte6qnote1noqte3.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\ref\1noqte6qnote1noqte3.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\bin\Release\net6.0\1noqte6qnote1noqte3.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\ref\1noqte6qnote1noqte3.dll
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.pdb
+C:\Users\Ali\Desktop\C#\csharp1dot6\1noqte6qnote1noqte3\1noqte6qnote1noqte3\obj\Release\net6.0\1noqte6qnote1noqte3.genruntimeconfig.cache
