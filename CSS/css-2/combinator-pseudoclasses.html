@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Combinators</title>
+    <style>
+      /*div p {
+        color: blue;      > + ~      } */
+      div ~ p {
+        color: blue;
+      }
+      a {
+        border: 2px solid gray;
+        border-radius: 8px;
+        display: inline-block;
+        text-decoration: none;
+        text-align: center;
+        width: 60px;
+        padding: 5px 8px;
+        margin-right: 10px;
+      }
+      a:hover {
+        background-color: rgb(123, 0, 223);
+        color: rgb(203, 245, 179);
+        border: 2px solid rgb(123, 0, 223);
+      }
+    </style>
+  </head>
+  <body>
+    <!--Descendant Child Adjacent General-->
+    <p>First Paragraphs</p>
+    <div>
+      <p>First Paragraphs</p>
+      <p>First Paragraphs</p>
+      <section>
+        <p>First Paragraphs</p>
+      </section>
+    </div>
+    <p>First Paragraphs</p>
+    <p>First Paragraphs</p>
+    <div>
+      <a href="">Home</a>
+      <a href="">Products</a>
+      <a href="">About</a>
+    </div>
+  </body>
+</html>

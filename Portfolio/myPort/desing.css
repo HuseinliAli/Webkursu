@@ -1,0 +1,189 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.navBar {
+  border-radius: 24px;
+  background: rgb(74, 99, 231);
+  padding: 24px;
+  width: 248px;
+  height: 600px;
+  margin-left: 64px;
+  margin-top: 44px;
+  box-shadow: 0px 6px 6px 6px rgb(216, 216, 216);
+  display: inline-block;
+  position: fixed;
+}
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.namee {
+  font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  color: #fff;
+  display: inline-block;
+  display: block;
+  background-color: rgb(74, 99, 231);
+  padding: 0px;
+}
+.dot {
+  height: 14px;
+  width: 14px;
+  background-color: rgb(255, 147, 223);
+  border-radius: 50%;
+  display: inline-block;
+}
+.a {
+  display: inline-block;
+}
+.mainMenu {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.profile-photo {
+  background-color: #fff;
+  width: 96px;
+  border-radius: 50%;
+}
+.job-text {
+  font-size: 32px;
+  font-weight: 100;
+  color: #fff;
+  font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.in-menu {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+}
+
+.in-menu {
+  margin: 16px;
+  display: flex;
+}
+.miniBox {
+  width: 6px;
+  display: inline-block;
+  margin-left: -40px;
+  margin-right: 36px;
+  background-color: rgb(255, 147, 223);
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.name {
+  font-size: 28px;
+  height: 24px;
+  margin-bottom: 8px;
+}
+.copy {
+  color: rgb(178, 189, 245);
+}
+.socials {
+  display: flex;
+  list-style: none;
+  margin-left: 5px;
+}
+.socials li {
+  margin: 0 12px;
+}
+.socials a {
+  text-decoration: none;
+  color: #fff;
+}
+.socials a i {
+  font-size: 1.4rem;
+}
+.socials a:hover i {
+  color: rgb(255, 147, 223);
+}
+#main-hello {
+  height: 444px;
+  width: 800px;
+  border-radius: 24px;
+  background: rgb(67, 90, 208);
+  display: inline-block;
+  margin-left: 400px;
+  margin-top: 44px;
+  padding-left: 100px;
+  padding-top: 200px;
+  padding-right: 60px;
+  box-shadow: 0px 6px 6px 6px rgb(216, 216, 216);
+}
+
+.huemay {
+  font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: 56px;
+  color: #fff;
+  display: inline-block;
+  padding-right: 8px;
+}
+.about-me-under-name {
+  font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-top: 18px;
+  font-size: 20px;
+  color: #fff;
+}
+#download-cv a {
+  display: block;
+  padding: 16px 28px;
+}
+#download-cv {
+  background-color: rgb(255, 147, 223);
+  text-align: center;
+  display: inline-block;
+  border-radius: 32px;
+  margin-top: 14px;
+}
+
+#download-cv:hover {
+  display: inline-block;
+  background-color: rgb(74, 99, 231);
+  transition: 500ms;
+  color: #fff;
+  box-shadow: 0px 3px 3px 3px rgb(45, 67, 175);
+  margin-top: 32px;
+}
+#main-hello a {
+  font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+#hire-me a {
+  display: block;
+  padding: 16px 28px;
+}
+#hire-me {
+  background-color: rgb(67, 90, 208);
+  text-align: center;
+  display: inline-block;
+  border-radius: 32px;
+  margin-top: 28px;
+  border: 1px solid #fff;
+  margin-left: 8px;
+}
+
+#hire-me:hover {
+  display: inline-block;
+  background-color: #fff;
+  transition: 500ms;
+  border: 1px solid rgb(24, 24, 24);
+  box-shadow: 0px 3px 3px 3px rgb(45, 67, 175);
+  margin-top: 32px;
+}
+#hire-me a:hover {
+  color: rgb(24, 24, 24);
+  transition: 500ms;
+}
+#main-hello1 {
+  height: 650px;
+  width: 950px;
+  border-radius: 24px;
+  background: rgb(74, 99, 231);
+  margin-left: 400px;
+  margin-top: 44px;
+}

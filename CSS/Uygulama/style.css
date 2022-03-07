@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 32px;
+}
+b {
+  font-size: 26px;
+}
+#completed {
+  background-color: yellow;
+}
+#notcompleted {
+  background-color: blue;
+}
+#main {
+  width: 70%;
+}
