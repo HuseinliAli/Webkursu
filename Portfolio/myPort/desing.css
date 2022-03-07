@@ -2,17 +2,24 @@
   margin: 0px;
   padding: 0px;
 }
+body {
+  background-color: rgb(246, 247, 255);
+}
 .navBar {
   border-radius: 24px;
   background: rgb(74, 99, 231);
   padding: 24px;
   width: 248px;
-  height: 600px;
+  height: 596px;
   margin-left: 64px;
-  margin-top: 44px;
+  margin-top: 52px;
   box-shadow: 0px 6px 6px 6px rgb(216, 216, 216);
   display: inline-block;
   position: fixed;
+}
+.slide-to-right-in-menu:hover {
+  margin-left: 16px;
+  transition: 400ms;
 }
 a {
   color: rgb(255, 255, 255);
@@ -48,7 +55,6 @@ a {
   border-radius: 50%;
 }
 .job-text {
-  font-size: 32px;
   font-weight: 100;
   color: #fff;
   font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -57,21 +63,12 @@ a {
 .in-menu {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .in-menu {
   margin: 16px;
   display: flex;
-}
-.miniBox {
-  width: 6px;
-  display: inline-block;
-  margin-left: -40px;
-  margin-right: 36px;
-  background-color: rgb(255, 147, 223);
-  border-top-right-radius: 4px;
-  border-bottom-right-radius: 4px;
 }
 .name {
   font-size: 28px;
@@ -79,25 +76,39 @@ a {
   margin-bottom: 8px;
 }
 .copy {
+  margin-top: -60px;
   color: rgb(178, 189, 245);
 }
-.socials {
+.socials > li {
   display: flex;
   list-style: none;
-  margin-left: 5px;
-}
-.socials li {
-  margin: 0 12px;
+  margin-left: -12px;
+  display: inline-block;
 }
 .socials a {
   text-decoration: none;
-  color: #fff;
+  color: rgb(61, 61, 61);
+}
+.socials {
+  margin-left: 20px;
+  margin-top: 20px;
 }
 .socials a i {
-  font-size: 1.4rem;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 32px;
+  margin-left: 8px;
+  background-color: #fff;
+}
+.socials i {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
 }
 .socials a:hover i {
-  color: rgb(255, 147, 223);
+  transition: 400ms;
+  color: #fff;
+  background-color: rgb(255, 147, 223);
 }
 #main-hello {
   height: 444px;
@@ -105,14 +116,28 @@ a {
   border-radius: 24px;
   background: rgb(67, 90, 208);
   display: inline-block;
-  margin-left: 400px;
-  margin-top: 44px;
   padding-left: 100px;
-  padding-top: 200px;
   padding-right: 60px;
-  box-shadow: 0px 6px 6px 6px rgb(216, 216, 216);
+  box-shadow: 0px 6px 6px 6px rgb(216 216 216);
+  padding-top: 200px;
+  margin-left: 0px;
+  opacity: 0.9;
 }
-
+body #main-hello {
+}
+#sekil {
+  margin-top: 0px;
+  background-image: url(img_forest.jpg);
+  height: 800px;
+  background-repeat: no-repeat;
+  margin-left: 400px;
+  margin-top: 50px;
+  background-size: cover;
+  display: inline-block;
+  border-radius: 24px;
+  height: 644px;
+  padding: 0px;
+}
 .huemay {
   font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
@@ -146,8 +171,7 @@ a {
   background-color: rgb(74, 99, 231);
   transition: 500ms;
   color: #fff;
-  box-shadow: 0px 3px 3px 3px rgb(45, 67, 175);
-  margin-top: 32px;
+  box-shadow: 5px 3px 3px 3px rgb(45, 67, 175);
 }
 #main-hello a {
   font-family: russo -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -171,19 +195,74 @@ a {
   display: inline-block;
   background-color: #fff;
   transition: 500ms;
-  border: 1px solid rgb(24, 24, 24);
-  box-shadow: 0px 3px 3px 3px rgb(45, 67, 175);
-  margin-top: 32px;
+  border: 1px solid rgb(61, 61, 61);
+  box-shadow: 3px 3px 3px 3px rgb(45, 67, 175);
 }
 #hire-me a:hover {
-  color: rgb(24, 24, 24);
+  color: rgb(61, 61, 61);
   transition: 500ms;
 }
-#main-hello1 {
-  height: 650px;
+#about-me-section {
+  height: 640px;
   width: 950px;
   border-radius: 24px;
-  background: rgb(74, 99, 231);
+  background: rgb(255, 255, 255);
   margin-left: 400px;
   margin-top: 44px;
+  margin-bottom: 60px;
+  box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
+  display: inline-block;
+}
+#about-me-in-about-me-section {
+  font-weight: 900;
+  color: rgb(61, 61, 61);
+  font-size: 22px;
+  display: inline-block;
+  margin: 120px 30px 0px 70px;
+  font-family: "Poppins", sans-serif;
+  display: inline-block;
+}
+#box-in-about-me-underline {
+  width: 35px;
+  height: 6px;
+  background-color: rgb(248, 53, 53);
+  border-radius: 6px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+#pp-in-about-me-section {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 0px;
+}
+#hello-section-in-about-me {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+}
+#hello {
+  font-weight: 900;
+  font-size: 22px;
+  margin: 80px 40px 20px 40px;
+  color: rgb(61, 61, 61);
+
+  position: relative;
+}
+#about-me-in-hello-section {
+  font-size: 20px;
+  margin: 130px 20px -40px -120px;
+  color: rgb(105, 105, 105);
+  position: relative;
+  padding-right: 50px;
+}
+
+#row-in-about-me {
+  padding: 0px 10px 0px 10px;
+}
+.about-me-row {
+  padding: 0px 10px 0px 10px;
+  margin-top: -50px;
 }
