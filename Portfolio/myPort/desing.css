@@ -38,7 +38,7 @@ a {
 .dot {
   height: 14px;
   width: 14px;
-  background-color: rgb(255, 147, 223);
+  background-color: rgb(255, 89, 89);
   border-radius: 50%;
   display: inline-block;
 }
@@ -108,7 +108,7 @@ a {
 .socials a:hover i {
   transition: 400ms;
   color: #fff;
-  background-color: rgb(255, 147, 223);
+  background-color: rgb(255, 89, 89);
 }
 #main-hello {
   height: 444px;
@@ -159,7 +159,7 @@ body #main-hello {
   padding: 16px 28px;
 }
 #download-cv {
-  background-color: rgb(255, 147, 223);
+  background-color: rgb(255, 89, 89);
   text-align: center;
   display: inline-block;
   border-radius: 32px;
@@ -225,7 +225,7 @@ body #main-hello {
 .box-in-about-me-underline {
   width: 40px;
   height: 6px;
-  background-color: rgb(248, 53, 53);
+  background-color: rgb(255, 89, 89);
   border-radius: 6px;
   margin-left: 70px;
   margin-top: 10px;
@@ -291,7 +291,7 @@ body #main-hello {
   color: rgb(177, 177, 177);
   font-weight: 400;
 }
-html{
+html {
   scroll-behavior: smooth;
 }
 #skills-section {
@@ -305,17 +305,17 @@ html{
   box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
   display: inline-block;
 }
-#skills-schedule{
+#skills-schedule {
   display: flex;
 }
-#my-skills-write{
+#my-skills-write {
   font-weight: 900;
   color: rgb(61, 61, 61);
   font-size: 22px;
   margin: 120px 30px 0px 70px;
   font-family: "Poppins", sans-serif;
 }
-#writing-in-my-skills{
+#writing-in-my-skills {
   color: rgb(61, 61, 61);
   font-size: 16px;
   margin-bottom: 25px;
@@ -324,38 +324,95 @@ html{
   margin-left: -40px;
   margin-right: 50px;
 }
-.box-in-my-skills-underline{
+.box-in-my-skills-underline {
   width: 60px;
   height: 6px;
-  background-color: rgb(248, 53, 53);
+  background-color: rgb(255, 89, 89);
   border-radius: 6px;
   margin-left: -96px;
   margin-top: 180px;
   display: block;
 }
-.bxl-html5{
+.bxl-html5 {
   padding: 0px;
   margin-top: 300px;
-   font-size: 5rem;
-   line-height: 32px;
-   margin-left: -890px;
-   color: rgb(245,96,64);
- }
- .bxl-html5:hover{
-transition: 1s; color: rgb(255, 255, 255);
- }
-.bxl-css3{
-  padding: 0px;
-  margin-top: 300px;
-   font-size: 5rem;
-   line-height: 32px;
-   margin-left: -795px;
-   color: rgb(55,105,178);
+  font-size: 5rem;
+  line-height: 32px;
+  margin-left: -890px;
+  color: rgb(255, 89, 89);
 }
-.bxl-css3:hover{
-  transition: 1s; color: rgb(255, 255, 255);
-   }
-#resume-section{
+.bxl-html5:hover {
+  transition: 1s;
+  color: rgb(255, 255, 255);
+}
+.bxl-css3 {
+  padding: 0px;
+  margin-top: 300px;
+  font-size: 5rem;
+  line-height: 32px;
+  margin-left: -795px;
+  color: rgb(55, 105, 178);
+}
+.bxl-css3:hover {
+  transition: 1s;
+  color: rgb(255, 255, 255);
+}
+#resume-section {
+  height: 440px;
+  width: 950px;
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  margin-left: 400px;
+  margin-top: 44px;
+  margin-bottom: 60px;
+  box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
+  display: inline-block;
+}
+#roadmap-of-school {
+  margin-left: 200px;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+}
+#header-of-schRoadMap {
+  margin-left: -125px;
+  margin-top: 40px;
+  margin-bottom: 16px;
+  font-size: 22px;
+  font-weight: 900;
+}
+.box-of-education {
+  display: flex;
+  margin-top: 32px;
+  margin-left: -125px;
+  font-size: 16px;
+  color: rgb(169, 169, 169);
+}
+.education-level {
+  margin-left: 20px;
+  margin-top: -16px;
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  margin-bottom: 8px;
+}
+.about-education-location {
+  margin-bottom: 12px;
+  margin-left: 20px;
+  font-size: 16px;
+}
+.about-of-education {
+  margin-left: 20px;
+  font-size: 16px;
+  color: rgb(169, 169, 169);
+}
+.box-in-education-underline {
+  width: 40px;
+  height: 6px;
+  margin-left: -125px;
+  background-color: rgb(255, 89, 89);
+  border-radius: 6px;
+}
+#work-portfolios-section {
   height: 640px;
   width: 950px;
   border-radius: 24px;
@@ -365,4 +422,194 @@ transition: 1s; color: rgb(255, 255, 255);
   margin-bottom: 60px;
   box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
   display: inline-block;
+  font-family: "Poppins", sans-serif;
+}
+.portfolio-ul {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.portfolio {
+  font-size: 22px;
+  font-weight: 900;
+  color: rgb(61, 61, 61);
+  margin-bottom: 16px;
+}
+.box-in-work-underline {
+  width: 40px;
+  height: 6px;
+  background-color: rgb(255, 89, 89);
+  border-radius: 6px;
+}
+#navBarInWork {
+  display: flex;
+}
+#navBarInWork a {
+  color: rgb(169, 169, 169);
+}
+#navBarInWork a:hover {
+  transition: 300ms;
+  color: #111;
+}
+#navBarInWork {
+  margin-left: 50px;
+  margin-top: 44px;
+}
+.navBar-In-Portfolio {
+  padding: 8px;
+  margin-right: 32px;
+}
+.navBar-In-Portfolio:active::after {
+  background-color: rgb(0, 0, 0);
+}
+#work-items {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#work-items li img {
+  width: 240px;
+  height: 160px;
+  border-radius: 16px;
+}
+#work-items li {
+  margin-bottom: 50px;
+  margin-right: 56px;
+  display: inline-block;
+}
+#work-items li img:hover {
+  opacity: 1;
+  color: aquamarine;
+}
+#feedback {
+  height: 540px;
+  width: 950px;
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  margin-left: 400px;
+  margin-top: 44px;
+  margin-bottom: 60px;
+  box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+}
+#feedback-profiles {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+#increaseOfFeedBackBox {
+  margin-top: 24px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+.box-of-feedback {
+  border: 2px solid rgb(232, 233, 247);
+  border-radius: 8px;
+  width: 400px;
+  height: 250px;
+  margin-right: 50px;
+}
+.clientPp img {
+  display: flex;
+  margin-top: 16px;
+  width: 60px;
+}
+.question-mark {
+  display: flex;
+  color: rgb(255, 89, 89);
+  font-size: 60px;
+}
+.feedBackInBox {
+  color: rgb(169, 169, 169);
+}
+.clientPp img {
+  display: flex;
+  margin-top: 16px;
+}
+.clientName {
+  display: flex;
+  margin-top: -50px;
+  margin-left: 80px;
+  margin-bottom: 8px;
+  color: rgb(61, 61, 61);
+  font-weight: 900;
+}
+.clientJob {
+  display: flex;
+  margin-left: 80px;
+  color: rgb(169, 169, 169);
+}
+#getItTouch {
+  height: 640px;
+  width: 950px;
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  margin-left: 400px;
+  margin-top: 44px;
+  margin-bottom: 60px;
+  box-shadow: 0px 6px 6px 6px rgb(238, 239, 254);
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+}
+#contactMeList {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#contactMeList li {
+  width: 300px;
+  margin-top: 0px;
+  display: flex;
+}
+#contactMeList i {
+  margin-top: 44px;
+  font-size: 2rem;
+  color: rgb(255, 89, 89);
+}
+.phone-email-location {
+  margin-top: 44px;
+  margin-bottom: 4px;
+  margin-left: 8px;
+}
+.phone-email-location li {
+  margin-bottom: 4px;
+}
+.header-of-numb-mail-add {
+  font-weight: 700;
+}
+.info-of-numb-mail-add {
+  color: rgb(169, 169, 169);
+}
+.enter-info input{
+  padding: 12px;
+  border-radius: 14px;
+}
+
+form{
+  display: flex;
+  margin-top: -225px;
+  margin-left: 400px;
+  margin-right: 50px;
+  
+}
+#subject{
+  width: 400px;
+  margin-bottom: 20px;
+}
+#email-info{
+  display: flex;
+  margin-left: -192px;
+  margin-bottom: 20px;
+}
+#message{
+  border-radius: 14px;
+  margin-bottom: 20px;
+}
+#submit-button{
+  background-color: rgb(255, 89, 89);
+  padding: 12px;
+  border-radius: 16px;
+  border: 0px;
+  color: #fff;
+}
+tr:nth-child(2){
+
 }
