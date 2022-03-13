@@ -1,0 +1,90 @@
+using System;
+
+namespace DayOne
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            diffOfFactAndSum();
+            sumOfQuadratic();
+            avarage();
+            areaAndLength();
+            multiplicationTable();
+            Console.Read();
+
+        }
+
+        private static void diffOfFactAndSum()
+        {
+            Console.Write("Eded Daxil Edin: ");
+            double number = int.Parse(Console.ReadLine());
+            double sum = 0;
+            double multp = 1;
+            double diff = 0;
+
+            for (int i = 1; i <= number; i++)
+            {
+                multp*=i;
+                sum+=i;
+            }
+            diff=multp-sum;
+            Console.Write("0 ile Verilmis Eded Arasindaki Ededlerin Hasilleri ile Ceminin Ferqi: ");
+        }
+
+        private static void sumOfQuadratic()
+        {
+            Console.Write("Eded Daxil Edin: ");
+            double number = int.Parse(Console.ReadLine());
+            double sum = 0;
+            double kvadrat = 0;
+            for (int i = 1; i<=number; i++)
+            {
+                kvadrat=Math.Pow(i,2);
+                sum+=kvadrat;
+            }
+            Console.Write("1 ile " + number + " arasindaki ededlerin kvadratlari cemi: ");
+            Console.WriteLine(sum);
+        }
+
+        private static void avarage()
+        {
+            Console.Write("Daxil edeceyiniz eded sayini girin: ");
+            double  quantity= double.Parse(Console.ReadLine());
+            double sum = 0;
+            for (int i = 0; i<quantity; i++)
+            {
+                double number = double.Parse(Console.ReadLine());
+                sum+=number;
+            }
+            double avarage = sum/quantity;
+            Console.Write("Ededi orta: ");
+            Console.WriteLine(avarage);
+        }
+        private static void areaAndLength()
+        {
+            Console.WriteLine("Duzbucaqlinin A Terefini Daxil Edin: ");
+            double aSide = double.Parse(Console.ReadLine());
+            Console.WriteLine("Duzbucaqlinin B Terefini Daxil Edin: ");
+            double bSide = double.Parse(Console.ReadLine());
+            double area = aSide*bSide;
+            double perimeter = 2*(aSide+bSide);
+            Console.WriteLine("Sahe: "+area);
+            Console.WriteLine("Perimetr: "+perimeter);
+        }
+        private static void multiplicationTable()
+        {
+            Console.Write("Misillerini Gormek Istediyiniz ededi daxil edin: ");
+            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine();
+            int multp=0;
+
+            for(int i = 0; i<=10; i++)
+            {
+                multp=number*i;
+                Console.WriteLine(number+"*"+i+"="+multp);
+            }
+        }
+
+    }
+}
