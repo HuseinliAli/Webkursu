@@ -5,23 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BATHROOM SUITES</title>
+    <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+    <script src="internal.js"></script>
   </head>
-  <body>
+  <body class="container">
     <section id="internal-product">
       <div id="photo-of-product">
         <p id="NEW">NEW</p>
-        <img
-          src="bathroom-suites.jpg"
-          alt="bathroom-suites"
-          title="bathroom-suites"
-        />
+        <div  class="hover-prodct">
+          
+          <div class="middle-search">
+            <i class='bx bx-zoom-in' id="myBtn"></i>
+          </div>
+          <img src="bathroom-suites.jpg" alt="bathroom-suites"/>
+        </div>
+        
       </div>
       <div id="information-of-product">
         <ul id="header-of-products-informations">
           <li id="head-of-products-information">BATHROOM SUİTES</li>
           <ul id="in-of-prices">
-            <li id="striked-prices"><strike> $16.51</strike></li>
+            <li id="striked-prices"><strike>$16.51</strike></li>
             <li id="new-price">$15.79</li>
             <li id="save">Save 4%</li>
           </ul>
@@ -37,19 +45,287 @@
           </li>
           <li id="size-of-product-write">Size</li>
           <li id="">
-              <select name="size-of-product" id="size-of-product">
-                <option value="S">S</option>
-                <option value="M">M</option>
-                <option value="L">L</option>
-              </select>
+            <select name="size-of-product" id="size-of-product">
+              <option value="S">S</option>
+              <option value="M">M</option>
+              <option value="L">L</option>
+            </select>
           </li>
           <li id="colors-select-write">Color</li>
           <ul id="colors-select">
-              <a href=""><li id="orange"></li></a>
-              <a href=""><li id="orange"></li></a>
+            <a href=""><li id="orange"></li></a>
+            <a href=""><li id="skyBlue"></li></a>
           </ul>
+          <li id="quantity">Quantity</li>
+          <ul id="piece-upDown-adToCart-inStock">
+            <li><input placeholder="0" id="number-of-product" type="number" min="0" max="100"/></li>
+            <a href=""><ul id="add-to-cart">
+              <li><i class="bx bxs-shopping-bag"></i></li>
+              <li id="add-to-cart-write"> ADD TO CART</li>
+            </ul></a>
+            <ul id="in-stock-write-and-icon">
+              <li><i class='bx bx-check'></i></li>
+              <li>In stock</li>
+            </ul> </ul>
+            <li>
+              <ul id="share-with-in-product-information">
+                <li id="share-write">Share</li>
+                <li><a href=""><i class='bx bxl-facebook fctt'></i></a></li>
+               <li><a href=""><i class='bx bxl-twitter fctt' ></i></a></li>
+               <li><a href=""><i class='bx bxl-google-plus ggpn' ></i></a></li>
+               <li><a href=""><i class='bx bxl-pinterest-alt ggpn' ></i></a></li>
+             </ul>
+            </li>
+            <li>
+              <ul class="shield-truck-transfer">
+                <li><i class='bx bxs-check-shield shld-trck-trnsfr-icon'></i></li>
+                <li class="sec-del-ret-write">Security policy (edit with Customer reassurance module)</li>
+              </ul>
+            </li>
+            <li>
+              <ul class="shield-truck-transfer">
+                <li><i class='bx bxs-truck shld-trck-trnsfr-icon'></i></li>
+                <li class="sec-del-ret-write"> Delivery policy (edit with Customer reassurance module)</li>
+              </ul>
+            </li>
+            <li>
+              <ul class="shield-truck-transfer">
+                <li><i class='bx bx-transfer shld-trck-trnsfr-icon' ></i></li>
+                <li class="sec-del-ret-write"> Return policy (edit with Customer reassurance module)</li>
+              </ul>
+            </li>
+        </ul>
+        <ul id="slider-under-product-photo">
+          <li><a href=""><i class='bx bx-chevron-left'></i></a></li>
+          <li><a href=""><img src="basi-uzun-krand.jpg" alt="basi-uzun-krand"></a></li>
+          <li><img src="el-uz-yuyan.jpg" alt="el-uz-yuyan"></a></li>
+          <li><img src="krand-1.jpg" alt="krand-1"></a></li>
+          <li><img src="unitaz.jpg" alt="unitaz"></li>
+          <li><img src="bathroom-suites.jpg" alt="bathroom-suites"></a></li>
+          <li><a href=""><i class='bx bx-chevron-right' ></i></a></a></li>
         </ul>
       </div>
     </section>
+      <div>
+            <div id="myModal" class="modal">
+              <div class="modal-content">
+              <span class="close1">&times;</span>
+              <div>
+                <img src="bathroom-suites.jpg" alt="bathroom-suites" id="img1-in-modal-big">
+                <img src="basi-uzun-krand.jpg" alt="" id="img2-in-modal-big" class="hidden-in-modal-pox">
+                <img src="basi-yumru-krand.jpg" alt="" id="img3-in-modal-big" class="hidden-in-modal-pox">
+                <img src="el-uz-yuyan.jpg" alt="" id="img4-in-modal-big" class="hidden-in-modal-pox">
+                <img src="unitaz.jpg" alt="" id="img5-in-modal-big" class="hidden-in-modal-pox">
+                <img src="krand-1.jpg" alt="" id="img6-in-modal-big" class="hidden-in-modal-pox">
+              </div>
+                <div class="write-in-modal-box">
+                  Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance.
+                </div>
+                <div class="images-of-slider-in-modal" id="imgs-of-sldr-n-mdl">
+                  <div class="images-in-modal" id="img1-in-modal" onclick="myFunction3()">
+                    <img src="bathroom-suites.jpg" alt="">
+                  </div>
+                  <div class="images-in-modal" id="img2-in-modal" onclick="myFunction4()">
+                    <img src="basi-uzun-krand.jpg" alt="">
+                  </div>
+                  <div class="images-in-modal" id="img3-in-modal"onclick="myFunction5()">
+                    <img src="basi-yumru-krand.jpg" alt="">
+                  </div>
+                  <div class="images-in-modal" id="img4-in-modal"onclick="myFunction6()">
+                    <img src="el-uz-yuyan.jpg" alt="">
+                  </div>
+                  <div class="images-in-modal" id="img5-in-modal"onclick="myFunction7()">
+                    <img src="unitaz.jpg" alt="">
+                  </div>
+                  <div class="images-in-modal" id="img6-in-modal"onclick="myFunction8()">
+                    <img src="krand-1.jpg" alt="">
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    <section id="description">
+      <div id="header-of-desc-and-prdct-dtls">
+        <div class="desc-prd" id="description-btn" onclick="myFunction1()">Description</div>
+        <div class="desc-prd" id="production-details" onclick="myFunction2()" >Product Details</div>
+      </div>
+      <div id="filter-of-decr-and-prd-dtl">
+        <div class="common-visibility-of-paragraphs" id="paragraph-of-products">Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance.</div>
+        <div class="common-visibility-of-paragraphs" id="paragraph-of-details"><img src="1.jpg" alt="">
+        <ul>
+          <ul class="honor-logo-desc">
+            <li class="write-bold-ref-stc">Reference: </li>
+            <li class="write-slim-ref-stc"> Demo_1</li>
+          </ul>
+          <ul class="honor-logo-desc">
+            <li class="write-bold-ref-stc">In Stock: </li>
+            <li class="write-slim-ref-stc"> 300items</li>
+          </ul>
+        </ul></div>
+      </div>
+    </section>
+
+    <section id="you-also-might-like">
+      
+       <h1 >YOU MIGHT ALSO LIKE</h1>
+      <div class="lineDiv container">
+        <div class="blackLine"></div>
+        <div class="whiteLine"></div>
+      </div>
+      <div id="container-of-products">
+        <div class="container-products"> 
+          <div class="image-of-you-migth-also-slider-product"><img src="basi-uzun-krand.jpg" alt=""></div>
+          <div class="new-write-in-you-mught-also">NEW</div>
+          <div class="product-name-in-y-m-a">BATHROOM SUITES</div>
+          <div class="save-price-in-y-m-a">
+            <ul>
+              <li class="new-price-y-m-a">$15.85</li>
+              <li class="save-y-m-a">-4%</li>
+              <li class="last-price-y-m-a"><STRIke>$16.51</STRIke></li>
+            </ul>
+          </div>
+          <div class="color-of-y-m-a">
+            <div class="orange-color-in-y-m-a"></div>
+            <div class="blue-color-in-y-m-a"></div>
+            <div class="skyblue-color-in-y-m-a"></div>
+            <div class="yellow-color-in-y-m-a"></div>
+          </div>
+          <div class="hover-show-cart-y-m-a">
+          <div class="show-y-m-a"><i class='bx bxs-show'></i></div>
+          <div class="cart-y-m-a"><i class='bx bxs-shopping-bag'></i></div></div>
+        </div>
+
+      </div>
+      </section>
+    </section>
+    <script>
+      function myFunction1() {
+        document.getElementById("description-btn").style.backgroundColor="#1c1c1c";
+        document.getElementById("description-btn").style.color="#F4F4F4";
+        document.getElementById("production-details").style.backgroundColor="rgb(236, 235, 235)";
+        document.getElementById("production-details").style.color="rgb(182, 182, 182)";
+        document.getElementById("paragraph-of-products").style.display = "block";
+        document.getElementById("paragraph-of-details").style.display = "none";
+      }
+      </script>
+      <script>
+        function myFunction2() {
+        document.getElementById("production-details").style.backgroundColor="#1c1c1c";
+        document.getElementById("production-details").style.color="#F4F4F4";
+        document.getElementById("description-btn").style.backgroundColor="rgb(236, 235, 235)";
+        document.getElementById("description-btn").style.color="rgb(182, 182, 182)";
+        document.getElementById("paragraph-of-details").style.display = "block";
+        document.getElementById("paragraph-of-products").style.display = "none";
+      }
+      </script>
+    <script>
+      var modal = document.getElementById("myModal");
+      var btn = document.getElementById("myBtn");
+      var span = document.getElementsByClassName("close1")[0];
+        btn.onclick = function() {
+        modal.style.display = "block";
+
+      }
+      span.onclick = function() {
+        modal.style.display = "none";
+      }
+      </script>
+      
+      <script>
+        function myFunction3(){
+          document.getElementById("img1-in-modal-big").style.display="block";
+          document.getElementById("img1-in-modal").style.border="1px solid #1c1c1c";
+          document.getElementById("img2-in-modal-big").style.display="none";
+          document.getElementById("img2-in-modal").style.border="1px solid transparent";
+          document.getElementById("img3-in-modal-big").style.display="none";
+          document.getElementById("img3-in-modal").style.border="1px solid transparent";
+          document.getElementById("img4-in-modal-big").style.display="none";
+          document.getElementById("img4-in-modal").style.border="1px solid transparent";
+          document.getElementById("img5-in-modal-big").style.display="none";
+          document.getElementById("img5-in-modal").style.border="1px solid transparent";
+          document.getElementById("img6-in-modal-big").style.display="none";
+          document.getElementById("img6-in-modal").style.border="1px solid transparent";
+        }
+        function myFunction4(){
+          document.getElementById("img1-in-modal-big").style.display="none";
+          document.getElementById("img1-in-modal").style.border="1px solid transparent";
+          document.getElementById("img2-in-modal-big").style.display="block";
+          document.getElementById("img2-in-modal").style.border="1px solid #1c1c1c";
+          document.getElementById("img3-in-modal-big").style.display="none";
+          document.getElementById("img3-in-modal").style.border="1px solid transparent";
+          document.getElementById("img4-in-modal-big").style.display="none";
+          document.getElementById("img4-in-modal").style.border="1px solid transparent";
+          document.getElementById("img5-in-modal-big").style.display="none";
+          document.getElementById("img5-in-modal").style.border="1px solid transparent";
+          document.getElementById("img6-in-modal-big").style.display="none";
+          document.getElementById("img6-in-modal").style.border="1px solid transparent";
+        }
+        function myFunction5(){
+          document.getElementById("img1-in-modal-big").style.display="none";
+          document.getElementById("img1-in-modal").style.border="1px solid transparent";
+          document.getElementById("img2-in-modal-big").style.display="none";
+          document.getElementById("img2-in-modal").style.border="1px solid transparent";
+          document.getElementById("img3-in-modal-big").style.display="block";
+          document.getElementById("img3-in-modal").style.border="1px solid #1c1c1c";
+          document.getElementById("img4-in-modal-big").style.display="none";
+          document.getElementById("img4-in-modal").style.border="1px solid transparent";
+          document.getElementById("img5-in-modal-big").style.display="none";
+          document.getElementById("img5-in-modal").style.border="1px solid transparent";
+          document.getElementById("img6-in-modal-big").style.display="none";
+          document.getElementById("img6-in-modal").style.border="1px solid transparent";
+        }
+        function myFunction6(){
+          document.getElementById("img1-in-modal-big").style.display="none";
+          document.getElementById("img1-in-modal").style.border="1px solid transparent";
+          document.getElementById("img2-in-modal-big").style.display="none";
+          document.getElementById("img2-in-modal").style.border="1px solid transparent";
+          document.getElementById("img3-in-modal-big").style.display="none";
+          document.getElementById("img3-in-modal").style.border="1px solid transparent";
+          document.getElementById("img4-in-modal-big").style.display="block";
+          document.getElementById("img4-in-modal").style.border="1px solid #1c1c1c";
+          document.getElementById("img5-in-modal-big").style.display="none";
+          document.getElementById("img5-in-modal").style.border="1px solid transparent";
+          document.getElementById("img6-in-modal-big").style.display="none";
+          document.getElementById("img6-in-modal").style.border="1px solid transparent";
+        }
+        function myFunction7(){
+          document.getElementById("img1-in-modal-big").style.display="none";
+          document.getElementById("img1-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img2-in-modal-big").style.display="none";
+          document.getElementById("img2-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img3-in-modal-big").style.display="none";
+          document.getElementById("img3-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img4-in-modal-big").style.display="none";
+          document.getElementById("img4-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img5-in-modal-big").style.display="block";
+          document.getElementById("img5-in-modal").style.border="1px solid #1c1c1c";
+
+          document.getElementById("img6-in-modal-big").style.display="none";
+          document.getElementById("img6-in-modal").style.border="1px solid transparent";
+        }
+        function myFunction8(){
+          document.getElementById("img1-in-modal-big").style.display="none";
+          document.getElementById("img1-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img2-in-modal-big").style.display="none";
+          document.getElementById("img2-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img3-in-modal-big").style.display="none";
+          document.getElementById("img3-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img4-in-modal-big").style.display="none";
+          document.getElementById("img4-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img5-in-modal-big").style.display="none";
+          document.getElementById("img5-in-modal").style.border="1px solid transparent";
+
+          document.getElementById("img6-in-modal-big").style.display="block";
+          document.getElementById("img6-in-modal").style.border="1px solid #1c1c1c";
+        }
+      </script>
   </body>
 </html>
