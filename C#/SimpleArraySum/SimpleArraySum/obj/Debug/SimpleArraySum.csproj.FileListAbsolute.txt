@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+C:\Users\Ali\Desktop\C#\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.pdb

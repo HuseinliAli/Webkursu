@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe.config
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.pdb
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.exe
+C:\Users\Ali\Desktop\C#\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.pdb

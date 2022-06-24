@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "464b58c8-03fc-4203-bd6f-52690a11e7fa": {
+      "ProjectGuid": "464b58c8-03fc-4203-bd6f-52690a11e7fa",
+      "DisplayName": "SimpleArraySum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
