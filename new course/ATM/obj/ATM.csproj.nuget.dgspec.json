@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali\\Desktop\\new course\\new course.csproj": {}
+    "C:\\Users\\Ali\\Desktop\\new course\\ATM\\ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali\\Desktop\\new course\\new course.csproj": {
+    "C:\\Users\\Ali\\Desktop\\new course\\ATM\\ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\new course\\new course.csproj",
-        "projectName": "new course",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\new course\\new course.csproj",
+        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\new course\\ATM\\ATM.csproj",
+        "projectName": "ATM",
+        "projectPath": "C:\\Users\\Ali\\Desktop\\new course\\ATM\\ATM.csproj",
         "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\new course\\obj\\",
+        "outputPath": "C:\\Users\\Ali\\Desktop\\new course\\ATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
