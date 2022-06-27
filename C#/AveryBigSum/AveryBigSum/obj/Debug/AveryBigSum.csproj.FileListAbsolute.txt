@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\bin\Debug\AveryBigSum.exe.config
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\bin\Debug\AveryBigSum.exe
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\bin\Debug\AveryBigSum.pdb
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\obj\Debug\AveryBigSum.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\obj\Debug\AveryBigSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\obj\Debug\AveryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\obj\Debug\AveryBigSum.exe
+C:\Users\Ali\Desktop\C#\AveryBigSum\AveryBigSum\obj\Debug\AveryBigSum.pdb

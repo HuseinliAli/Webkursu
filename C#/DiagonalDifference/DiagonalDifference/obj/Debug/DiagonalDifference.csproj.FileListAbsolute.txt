@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\Ali\Desktop\C#\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

@@ -1,0 +1,3 @@
+C:\Users\Ali\Desktop\C#\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache

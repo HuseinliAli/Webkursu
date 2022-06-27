@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\C#\30DayCode\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\30DayCode\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\30DayCode\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\bin\Debug\GradingStudents.exe.config
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\bin\Debug\GradingStudents.exe
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\bin\Debug\GradingStudents.pdb
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\obj\Debug\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\obj\Debug\GradingStudents.exe
+C:\Users\Ali\Desktop\C#\GradingStudents\GradingStudents\obj\Debug\GradingStudents.pdb

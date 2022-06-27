@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\bin\Debug\Min-MaxSum.exe.config
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\bin\Debug\Min-MaxSum.exe
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\bin\Debug\Min-MaxSum.pdb
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\obj\Debug\Min-MaxSum.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\obj\Debug\Min-MaxSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\obj\Debug\Min-MaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\obj\Debug\Min-MaxSum.exe
+C:\Users\Ali\Desktop\C#\Min-MaxSum\Min-MaxSum\obj\Debug\Min-MaxSum.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\bin\Debug\StairCase.exe.config
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\bin\Debug\StairCase.exe
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\bin\Debug\StairCase.pdb
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\obj\Debug\StairCase.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\obj\Debug\StairCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\obj\Debug\StairCase.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\obj\Debug\StairCase.exe
+C:\Users\Ali\Desktop\C#\StairCase\StairCase\obj\Debug\StairCase.pdb

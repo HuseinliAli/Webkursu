@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42b35a93-3aa3-49c2-bd95-03b534c422f1": {
+      "ProjectGuid": "42b35a93-3aa3-49c2-bd95-03b534c422f1",
+      "DisplayName": "AveryBigSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
