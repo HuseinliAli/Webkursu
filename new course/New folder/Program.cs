@@ -27,7 +27,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 {
                     System.Console.WriteLine("Low");
                 }
-                
             }
             System.Console.WriteLine("Program was excited: "+rnd);
             System.Console.WriteLine("Your score: "+chance);
